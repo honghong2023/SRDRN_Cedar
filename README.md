@@ -1,6 +1,8 @@
 echo "# SRDRN_Cedar" >> README.md
 
 SRDRN: a DL approach, namely, Super Resolution Deep Residual Network (SRDRN). 
+
+
 ###References: Wang, F., Tian, D., & Carroll, M. (2023). Customized deep learning for precipitation bias correction and downscaling. Geoscientific Model Development, 16(2), 535-556.
 
 
@@ -8,6 +10,9 @@ SRDRN: a DL approach, namely, Super Resolution Deep Residual Network (SRDRN).
 2. codes can work using python 3.10 + tensorflow 2.8 on cedar
 3. on cedar, ~/scratch/SRDRN is the repository
 4. push from cedar.computecanada.ca to github
+
+
+
 ##git init
 ##git add README.md
 ##git commit -m "first commit"
