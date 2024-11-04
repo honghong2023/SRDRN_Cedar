@@ -1,0 +1,11 @@
+Job ID: 47332928
+Cluster: cedar
+User/Group: minghong/minghong
+State: FAILED (exit code 1)
+Nodes: 2
+Cores per node: 32
+CPU Utilized: 1-03:35:49
+CPU Efficiency: 1.68% of 68-12:18:08 core-walltime
+Job Wall-clock time: 1-01:41:32
+Memory Utilized: 65.61 GB
+Memory Efficiency: 17.50% of 375.00 GB
