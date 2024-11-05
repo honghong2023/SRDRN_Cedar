@@ -1,6 +1,7 @@
 echo "# SRDRN_Cedar" >> README.md
 
 SRDRN: a DL approach, namely, Super Resolution Deep Residual Network (SRDRN). 
+
 The brief introduction of my ML code is  here. 
 1. it is used to do downscaling data from coarse resolution (13 x 16) to the fine resolution (156 x 192). The temporal resolution is one-hour data, so the matrix is  very large, for the training, n = 121466.  
 2. the maximum epochs is 150.
